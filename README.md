@@ -1,4 +1,4 @@
-# PRODIGY_CD_04
+# PRODIGY_CS_04
 IMPLEMENTATION OF A SIMPLE KEYLOGGER FOR ETHICAL PURPOSES
 Task Four of my Internship project at Prodigy InfoTech completed.
 Just wrote a python code for keylogger, the code was implemented using Python 3.12.3 version.
